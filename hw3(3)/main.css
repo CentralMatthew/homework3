@@ -1,0 +1,67 @@
+body {
+    margin: 0 auto;
+}
+
+.father {
+    height: 100vh;
+    width: 100vw;
+    background: red;
+    display: flex;
+    align-items: flex-end;
+}
+.blockb {
+    width: 65%;
+    height: 60%;
+    background: darkblue;
+}
+
+
+.blockc {
+    width: 35%;
+    height: 60%;
+    background: aquamarine;
+}
+
+.miniboxSize {
+    height: 100%;
+    width: 34%;
+}
+
+.minibox-white {
+    background: white;
+}
+
+.minibox-orange {
+    background: orange;
+}
+
+.minibox-green {
+    background: green;
+}
+
+
+.minibox-yellow {
+    background: yellow ;
+}
+
+.minibox-pink {
+    background: pink;
+}
+
+.minibox-blue {
+    background: blue;
+}
+
+.block1 {
+    height: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.block2 {
+    height: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+}
