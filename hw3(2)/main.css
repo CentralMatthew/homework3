@@ -1,0 +1,43 @@
+body {
+    margin: 0 auto;
+}
+
+.father {
+    height: 100vh;
+    width: 100vw;
+    background: red;
+    display: flex;
+    align-items: flex-end;
+}
+.blockb {
+    width: 65%;
+    height: 60%;
+    background: darkblue;
+    display: flex;
+    align-items: flex-end;
+}
+
+
+.blockc {
+    width: 35%;
+    height: 60%;
+    background: aquamarine;
+}
+
+.minibox-white {
+    background: white;
+    height: 50%;
+    width: 33.33%;
+}
+
+.minibox-orange {
+    background: orange;
+    height: 50%;
+    width: 33.33%;
+}
+
+.minibox-green {
+    background: green;
+    height: 50%;
+    width: 33.33%;
+}
